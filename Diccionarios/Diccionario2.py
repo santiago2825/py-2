@@ -1,5 +1,5 @@
 # Diccionario con las materias y sus notas
-Notas = ({"Matemáticas": 8.5,"Inglés": 7.0, "Programación": 9.2})
+Notas = {"Matemáticas": 8.5,"Inglés": 7.0, "Programación": 9.2}
 # Variable para guardar la suma de las notas
 total= 0
 # Recorre solo las notas
