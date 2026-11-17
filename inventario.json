@@ -1,0 +1,27 @@
+[
+    {
+        "producto": "camisa",
+        "precio": 45000,
+        "stock": 20
+    },
+    {
+        "producto": "gorra",
+        "precio": 30000,
+        "stock": 5
+    },
+    {
+        "producto": "pantalon",
+        "precio": 89000,
+        "stock": 12
+    },
+    {
+        "producto": "medias",
+        "precio": 8000,
+        "stock": 40
+    },
+    {
+        "producto": "zapatos",
+        "precio": 150000,
+        "stock": 3
+    }
+]

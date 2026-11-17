@@ -1,0 +1,12 @@
+[
+    {
+        "producto": "camisa",
+        "precio": 50000,
+        "stock": 23
+    },
+    {
+        "producto": "pantalon",
+        "precio": 75000,
+        "stock": 12
+    }
+]
